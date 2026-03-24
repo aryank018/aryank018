@@ -10,7 +10,30 @@
 ⚡ In my free time, I explore data projects, improve dashboards, and learn new tools in analytics.  
 🎯 Career Goal: To become a data-driven professional who transforms complex data into actionable insights that improve business performance and strategy.  
 📫 How to reach me: (Add your email) | LinkedIn (add later)  
+
+
+## 🛠 Skills
+
+📊 **Data Analysis & Visualization**  
+- Microsoft Excel (Advanced)  
+- Power BI (Dashboards & Reports)  
+
+🧠 **Data Skills**  
+- Data Cleaning  
+- Data Transformation  
+- Basic SQL (Learning)  
+
+🎨 **Tools & Platforms**  
+- Canva (Design & Creatives)  
+- WordPress (Website Development)  
+
+📚 **Core Concepts**  
+- KPI Tracking  
+- Business Insights Generation  
+- Basic Statistics for Data Analysis  
 <!--
+
+
 **aryank018/aryank018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
