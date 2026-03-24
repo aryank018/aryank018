@@ -30,7 +30,19 @@
 📚 **Core Concepts**  
 - KPI Tracking  
 - Business Insights Generation  
-- Basic Statistics for Data Analysis  
+- Basic Statistics for Data Analysis
+
+
+---
+
+## 📂 Projects
+
+🚧 Projects coming soon...
+
+- 📊 Sales Dashboard (Excel / Power BI)  
+- 📈 Profit vs Discount Analysis  
+- 🧑‍🤝‍🧑 Customer Segmentation  
+- 📣 Marketing Campaign Analysis  
 <!--
 
 
