@@ -1,5 +1,15 @@
 # Aryan Kakkar — Data Analyst 📊
 
+
+## About Me ❤️
+
+💡 Data Analyst with a background in Business Administration (E-commerce & Digital Marketing).  
+🎓 Currently pursuing BBA from Graphic Era, Dehradun.  
+📊 Skilled in Excel, Power BI, and Data Visualization, with a growing interest in SQL and analytics.  
+🚀 Passionate about turning raw data into actionable insights that drive business growth.  
+⚡ In my free time, I explore data projects, improve dashboards, and learn new tools in analytics.  
+🎯 Career Goal: To become a data-driven professional who transforms complex data into actionable insights that improve business performance and strategy.  
+📫 How to reach me: (Add your email) | LinkedIn (add later)  
 <!--
 **aryank018/aryank018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
