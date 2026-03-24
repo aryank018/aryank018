@@ -9,7 +9,9 @@
 🚀 Passionate about turning raw data into actionable insights that drive business growth.  
 ⚡ In my free time, I explore data projects, improve dashboards, and learn new tools in analytics.  
 🎯 Career Goal: To become a data-driven professional who transforms complex data into actionable insights that improve business performance and strategy.  
-📫 How to reach me: (Add your email) | LinkedIn (add later)  
+📫 How to reach me: 
+- 📧 Email: [aryankakkar111@gmail.com](mailto:aryankakkar111@gmail.com)  
+- 🔗 LinkedIn: [Aryan Kakkar](https://www.linkedin.com/in/aryan-kakkar-577792356/)
 
 
 ## 🛠 Skills
