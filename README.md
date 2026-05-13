@@ -1,4 +1,4 @@
-# Aryan Kakkar — Data Analyst 📊
+# Aryan Kakkar
 
 
 ## About Me ❤️
