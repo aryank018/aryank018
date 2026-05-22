@@ -1,63 +1,151 @@
 # Aryan Kakkar
 
+## 📊 Aspiring Data Analyst | Business & Marketing Analytics
 
-## About Me ❤️
+Passionate about transforming raw data into meaningful business insights through analytics, visualization, and data-driven decision-making.
 
-💡 Data Analyst with a background in Business Administration (E-commerce & Digital Marketing).  
-🎓 Currently pursuing BBA from Graphic Era, Dehradun.  
-📊 Skilled in Excel, Power BI, and Data Visualization, with a growing interest in SQL and analytics.  
-🚀 Passionate about turning raw data into actionable insights that drive business growth.  
-⚡ In my free time, I explore data projects, improve dashboards, and learn new tools in analytics.  
-🎯 Career Goal: To become a data-driven professional who transforms complex data into actionable insights that improve business performance and strategy.  
-📫 How to reach me: 
-- 📧 Email: [aryankakkar111@gmail.com](mailto:aryankakkar111@gmail.com)  
-- 🔗 LinkedIn: [Aryan Kakkar](https://www.linkedin.com/in/aryan-kakkar-577792356/)
+Recently Graduated with Bachelor of Business Administration (BBA) in E-commerce & Digital Marketing from Graphic Era University, Dehradun, with hands-on experience in Data Analytics, Performance Marketing, and Dashboard Development.
 
-
-## 🛠 Skills
-
-📊 **Data Analysis & Visualization**  
-- Microsoft Excel (Advanced)  
-- Power BI (Dashboards & Reports)  
-
-🧠 **Data Skills**  
-- Data Cleaning  
-- Data Transformation  
-- Basic SQL (Learning)  
-
-🎨 **Tools & Platforms**  
-- Canva (Design & Creatives)  
-- WordPress (Website Development)  
-
-📚 **Core Concepts**  
-- KPI Tracking  
-- Business Insights Generation  
-- Basic Statistics for Data Analysis
-
+I enjoy solving business problems using data, identifying trends, analyzing performance metrics, and building dashboards that support smarter strategic decisions.
 
 ---
 
-## 📂 Projects
+## 🚀 About Me
 
-🚧 Projects coming soon...
+- 🎓 BBA (E-commerce & Digital Marketing) — Graphic Era University, Dehradun
+- 📈 Skilled in Excel, Power BI, Data Visualization & Business Analytics
+- 🧠 Currently learning SQL, Python, and advanced analytics concepts
+- 📊 Hands-on experience with dashboard creation, KPI tracking, and performance analysis
+- 📣 Background in Performance Marketing, Lead Generation & Campaign Analytics
+- 🔍 Interested in Business Intelligence, Marketing Analytics & Data Storytelling
+- ⚡ Passionate about converting complex data into actionable insights
+- 🌱 Continuously improving analytical, technical, and problem-solving skills through projects and real-world practice
 
-- 📊 Sales Dashboard (Excel / Power BI)  
-- 📈 Profit vs Discount Analysis  
-- 🧑‍🤝‍🧑 Customer Segmentation  
-- 📣 Marketing Campaign Analysis  
-<!--
+---
 
+## 🛠️ Skills & Tools
 
-**aryank018/aryank018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analytics & Visualization
+- Microsoft Excel
+- Power BI
+- Google Sheets
+- Dashboard Development
+- KPI Tracking
+- Data Visualization
+- Data Interpretation
+- Data Storytelling
 
-Here are some ideas to get you started:
+### 🧠 Data Skills
+- Data Cleaning
+- Data Transformation
+- Data Analysis
+- Business Insights Generation
+- Trend Analysis
+- Basic Statistics for Data Analysis
+- Reporting & Performance Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- SQL (Beginner – Learning)
+- Python (Learning)
+- HTML & CSS (Basic)
+- WordPress
+- Google Tag Manager (Basic)
+
+### 📣 Marketing & Business Analytics
+- Campaign Performance Analysis
+- Lead Generation Analytics
+- CTR, CPC & ROAS Analysis
+- Conversion Tracking
+- Funnel Understanding
+- Business Research
+- Marketing Performance Metrics
+
+### 🎨 Tools & Platforms
+- Canva
+- Shopify 
+- Google Ads
+- Meta Ads
+- Google Analytics 
+
+---
+
+# 📂 Featured Projects
+
+## 📊 Global Cancer Patient Analysis Dashboard | Power BI
+- Analyzed 50,000+ patient records to identify key factors affecting survival and severity
+- Built interactive dashboards using KPI cards, charts, heatmaps, and trend analysis
+- Identified impact of cancer stage, age, treatment cost, and lifestyle factors on patient outcomes
+- Focused on transforming healthcare data into meaningful analytical insights
+
+## 📈 Superstore Sales Performance Dashboard | Excel
+- Built an interactive Excel dashboard using Pivot Tables, slicers, and charts
+- Analyzed sales, profit, discount impact, and regional performance trends
+- Identified loss-making categories and business improvement opportunities
+
+## 📉 Business Performance Dashboard | Power BI
+- Developed dynamic Power BI dashboards to track sales, profit, and operational KPIs
+- Performed category-wise and regional performance analysis
+- Presented insights through interactive visual reporting
+
+## 📣 Marketing Campaign Analytics
+- Analyzed campaign performance metrics such as CTR, CPC, conversions, and engagement
+- Explored audience behavior and campaign optimization opportunities
+- Applied data-driven thinking to marketing decision-making
+
+---
+
+## 💼 Experience & Practical Exposure
+
+### 📣 Performance Marketing & Lead Generation
+- Worked on Google Ads campaign planning and keyword research
+- Built lead generation landing pages and tracked conversion events
+- Analyzed campaign metrics including CTR, CPC, and conversion performance
+
+### 📊 Data Analytics Virtual Experience — Deloitte Australia (Forage)
+- Completed business-focused data analytics simulation
+- Cleaned and analyzed data using Excel
+- Built dashboards and presented analytical insights
+
+### 📱 Social Media & Campaign Analytics — Think Presence
+- Assisted in campaign performance tracking and reporting
+- Worked with engagement metrics, audience insights, and campaign analysis
+- Supported data-driven content strategy decisions
+
+---
+
+## 📚 Currently Learning
+
+- SQL for Data Analysis
+- Python for Analytics
+- Advanced Power BI
+- Data Modeling
+- Business Intelligence Concepts
+- Marketing Analytics
+- Data Visualization Best Practices
+
+---
+
+## 🎯 Career Objective
+
+To build a career in Data Analytics and Business Intelligence by combining analytical thinking, business understanding, and visualization skills to solve real-world business problems and support data-driven decision-making.
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: aryankakkar111@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/aryan-kakkar-577792356/
+- 💻 GitHub: https://github.com/aryank018
+
+---
+
+## ⚡ Interests
+
+- Data Analytics
+- Business Intelligence
+- Marketing Analytics
+- Dashboard Design
+- Consumer Behavior Analysis
+- Data Visualization
+- Startup Growth & Strategy
+- Performance Marketing Analytics
