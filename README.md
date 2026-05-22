@@ -135,7 +135,6 @@ To build a career in Data Analytics and Business Intelligence by combining analy
 
 - 📧 Email: aryankakkar111@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/aryan-kakkar-577792356/
-- 💻 GitHub: https://github.com/aryank018
 
 ---
 
