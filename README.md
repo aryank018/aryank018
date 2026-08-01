@@ -73,25 +73,25 @@ I enjoy solving business problems using data — identifying trends, analyzing p
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-## 📊 Global Cancer Patient Analysis Dashboard | Power BI
+### 📊 Global Cancer Patient Analysis Dashboard | Power BI
 - Analyzed 50,000+ patient records to identify key factors affecting survival and severity
 - Built interactive dashboards using KPI cards, charts, heatmaps, and trend analysis
 - Identified impact of cancer stage, age, treatment cost, and lifestyle factors on patient outcomes
 - Focused on transforming healthcare data into meaningful analytical insights
 
-## 📈 Superstore Sales Performance Dashboard | Excel
+### 📈 Superstore Sales Performance Dashboard | Excel
 - Built an interactive Excel dashboard using Pivot Tables, slicers, and charts
 - Analyzed sales, profit, discount impact, and regional performance trends
 - Identified loss-making categories and business improvement opportunities
 
-## 📉 Business Performance Dashboard | Power BI
+### 📉 Business Performance Dashboard | Power BI
 - Developed dynamic Power BI dashboards to track sales, profit, and operational KPIs
 - Performed category-wise and regional performance analysis
 - Presented insights through interactive visual reporting
 
-## 📣 Marketing Campaign Analytics
+### 📣 Marketing Campaign Analytics
 - Analyzed campaign performance metrics such as CTR, CPC, conversions, and engagement
 - Explored audience behavior and campaign optimization opportunities
 - Applied data-driven thinking to marketing decision-making
@@ -114,18 +114,6 @@ I enjoy solving business problems using data — identifying trends, analyzing p
 - Assisted in campaign performance tracking and reporting
 - Worked with engagement metrics, audience insights, and campaign analysis
 - Supported data-driven content strategy decisions
-
----
-
-## 📚 Currently Learning
-
-- SQL for Data Analysis
-- Python for Analytics
-- Advanced Power BI
-- Data Modeling
-- Business Intelligence Concepts
-- Marketing Analytics
-- Data Visualization Best Practices
 
 ---
 
