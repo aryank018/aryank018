@@ -1,20 +1,23 @@
 # Aryan Kakkar
 
-## 📊 Aspiring Data Analyst | Business & Marketing Analytics
+### 📊 Aspiring Data Analyst | Business & Marketing Analytics
 
 Passionate about transforming raw data into meaningful business insights through analytics, visualization, and data-driven decision-making.
 
-Recently Graduated with Bachelor of Business Administration (BBA) in E-commerce & Digital Marketing from Graphic Era University, Dehradun, with hands-on experience in Data Analytics, Performance Marketing, and Dashboard Development.
+Recently graduated with a Bachelor of Business Administration (BBA) in E-commerce & Digital Marketing from Graphic Era University, Dehradun, with hands-on experience in Data Analytics, Performance Marketing, and Dashboard Development.
 
-I enjoy solving business problems using data, identifying trends, analyzing performance metrics, and building dashboards that support smarter strategic decisions.
+I enjoy solving business problems using data — identifying trends, analyzing performance metrics, and building dashboards that support smarter strategic decisions.
+
+🏆 **2nd Place — Brillica Services Power BI Hackathon 2026** (real-world dataset, Excel + Power BI + DAX + Python)
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 🎓 BBA (E-commerce & Digital Marketing) — Graphic Era University, Dehradun
 - 📈 Skilled in Excel, Power BI, Data Visualization & Business Analytics
-- 🧠 Currently learning SQL, Python, and advanced analytics concepts
+- 🐍 Python for Data Analytics — NumPy, Pandas, Matplotlib, Seaborn, EDA
+- 🧠 Currently learning SQL and advancing my analytics toolkit
 - 📊 Hands-on experience with dashboard creation, KPI tracking, and performance analysis
 - 📣 Background in Performance Marketing, Lead Generation & Campaign Analytics
 - 🔍 Interested in Business Intelligence, Marketing Analytics & Data Storytelling
@@ -23,9 +26,9 @@ I enjoy solving business problems using data, identifying trends, analyzing perf
 
 ---
 
-## 🛠️ Skills & Tools
+### 🛠️ Skills & Tools
 
-### 📊 Data Analytics & Visualization
+**📊 Data Analytics & Visualization**
 - Microsoft Excel
 - Power BI
 - Google Sheets
@@ -35,23 +38,24 @@ I enjoy solving business problems using data, identifying trends, analyzing perf
 - Data Interpretation
 - Data Storytelling
 
-### 🧠 Data Skills
+**🧠 Data Skills**
 - Data Cleaning
-- Data Transformation
+- Data Transformation & Manipulation
+- Exploratory Data Analysis (EDA)
 - Data Analysis
 - Business Insights Generation
 - Trend Analysis
 - Basic Statistics for Data Analysis
 - Reporting & Performance Analysis
 
-### 💻 Technical Skills
+**💻 Technical Skills**
+- Python for Data Analytics — NumPy, Pandas, Matplotlib, Seaborn, OOP Basics, File & Exception Handling
 - SQL (Beginner – Learning)
-- Python (Learning)
 - HTML & CSS (Basic)
 - WordPress
 - Google Tag Manager (Basic)
 
-### 📣 Marketing & Business Analytics
+**📣 Marketing & Business Analytics**
 - Campaign Performance Analysis
 - Lead Generation Analytics
 - CTR, CPC & ROAS Analysis
@@ -60,12 +64,12 @@ I enjoy solving business problems using data, identifying trends, analyzing perf
 - Business Research
 - Marketing Performance Metrics
 
-### 🎨 Tools & Platforms
+**🎨 Tools & Platforms**
 - Canva
-- Shopify 
+- Shopify
 - Google Ads
 - Meta Ads
-- Google Analytics 
+- Google Analytics
 
 ---
 
