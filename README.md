@@ -49,7 +49,7 @@ I enjoy solving business problems using data — identifying trends, analyzing p
 - Reporting & Performance Analysis
 
 **💻 Technical Skills**
-- Python for Data Analytics — NumPy, Pandas, Matplotlib, Seaborn, OOP Basics, File & Exception Handling
+- Python for Data Analytics — NumPy, Pandas, Matplotlib, Seaborn, File & Exception Handling
 - SQL (Beginner – Learning)
 - HTML & CSS (Basic)
 - WordPress
